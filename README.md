@@ -44,3 +44,5 @@ reamp(input_file, amp_name, amp_file)
 ```
 
 ## Results
+
+![ResampleTest](plot.png)
