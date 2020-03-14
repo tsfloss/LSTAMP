@@ -1,4 +1,4 @@
-# Tube-Amp-Modeller
+# LSTAMP
 A neural network designed to model a guitar tube amplifier inspired by a project by sdatkinson.
 
 Since Tube Amplifiers typically act non-linearly to the input signal, it becomes an interesting problem to model this using a neural network. LSTM networks are notoriously suited for this kind of task. Adding some 1DConv layers reduces the amount of samples fed into the LSTM and therefore drastically reduces the amount of computational time, allowing for real-time(!) emulation (this was heavily inspired by the work of TSchmitzULG)
