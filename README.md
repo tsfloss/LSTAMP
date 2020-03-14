@@ -48,4 +48,4 @@ to amplify filename.wav.
 ## Results
 ![ResampleTest](plot.png)
 
-As can be seen in the above plot, the model is able to come close already after very few epochs. Although there's visibly more detail in the target file (more harmonics), this difference seems to be inaudible ben playing back these results.
+As can be seen in the above plot, the model is able to come close already after very few epochs. Although there's visibly more detail in the target file (more harmonics), this difference seems to be inaudible when playing back these results.
