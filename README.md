@@ -48,4 +48,4 @@ to amplify filename.wav.
 ## Results
 ![ResampleTest](plot.png)
 
-As can be seen in the above plot, the model is able to come close to the target after 200 epochs. Although there's visibly more detail in the target file (more harmonics), this difference seems to be inaudible ben playing back these results. One interesting find is that when skipping every other input signal (reducing the input size) to improve speed, the results are still very good.
+As can be seen in the above plot, the model is able to come close already after very few epochs. Although there's visibly more detail in the target file (more harmonics), this difference seems to be inaudible ben playing back these results.
