@@ -11,6 +11,8 @@ Hence we need to create a data set that inputs h samples for every 1 output samp
 
 The code is written to be executed in an IPython console.
 
+Real time emulation is possible and code for real-time emulation is coming soon.
+
 ## Training
 
 Various parameters can be set in the code before execution. The standard parameters for the included samples are:
