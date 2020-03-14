@@ -46,6 +46,8 @@ LSTAMP.amp(filename)
 to amplify filename.wav.
 
 ## Results
+Below are the results of a network with above-mentioned hyperparameters for a sample of a Fender Stratocaster into a Silverface amplifier with speaker simulation from Apple's Logic.
+
 ![ResampleTest](plot.png)
 
 As can be seen in the above plot, the model is able to come close already after very few epochs. Although there's visibly more detail in the target file (more harmonics), this difference seems to be inaudible when playing back these results.
